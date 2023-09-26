@@ -1,0 +1,38 @@
+  /* h1 */
+  h1 {
+    padding: 20px;
+}
+
+/* dog container */
+#dog-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    
+
+    /* dog holder */
+    .dog-holder {
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 1;
+    }
+    
+
+    /* images */
+    img{
+        width: 250px;
+        height: 250px;
+        margin: 20px 30px 20px 20px;
+        
+    }
+
+    /* error message  */
+ #errors {
+        font-size: 20px;
+        font-weight: bold;
+        color: red;
+        padding: 30px;
+}    

@@ -1,0 +1,46 @@
+  /* h1 */
+  h1 {
+        padding: 20px;
+}
+  
+  
+  /* quotes container */
+  #quote-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+  }
+
+  /* quote holder  */
+  .quote {
+        width: 30%; /* Adjust the width as needed */
+        border-radius: 25px;
+        margin: 10px 10px 10px 50px;
+        background-color: lightgray;
+  }
+  
+
+  /* quote content */
+  .strong-quote {
+       font-weight: bold;
+       margin-left: 20px;
+      
+  }
+
+
+  /*  quote author*/
+  .strong-author {
+        font-weight: bold;
+        font-style: italic;
+        padding: 10px;
+        margin-left: 310px;
+  }
+
+
+  /* error message  */
+   #error-message {
+        font-size: 20px;
+        font-weight: bold;
+        color: red;
+        padding: 30px;
+}    
