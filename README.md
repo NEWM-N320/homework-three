@@ -1,6 +1,6 @@
 # Homework Three - Promises, Async, & Await
 
-## Promises Assignment:https://in-info-web4.informatics.iupui.edu/~zadomin/N320/homework-three/promises/promises.html
+## Promises Assignment: https://in-info-web4.informatics.iupui.edu/~zadomin/N320/homework-three/promises/promises.html
 
 ## Async/Await Assignment: https://in-info-web4.informatics.iupui.edu/~zadomin/N320/homework-three/async-await/async.html
 
